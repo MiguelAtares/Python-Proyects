@@ -45,7 +45,7 @@ while True:
     elif (usuario == "piedra" and computadora == "papel") or \
         (usuario == "papel" and computadora == "tijera" ) or \
         (usuario == "tijera" and computadora == "piedra"):
-        print("La computadora te ha ganado puto malo!")
+        print("La computadora te ha ganado!")
         contador_derrotas += 1
     else: 
         print("HUMANITY WINS")
