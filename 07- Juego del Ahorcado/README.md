@@ -1,6 +1,9 @@
 ﻿
 # Juego del Ahorcado
 
+**📢 Tienes todos los proyectos de Python bien explicados en mi canal de Youtube:**
+ 🔗 [@DataAnalystAtares](https://www.youtube.com/@DataAnalystAtares)
+
 ## Descripción General
 
 Este código implementa un juego interactivo del **ahorcado**. Los usuarios deben adivinar una palabra seleccionada previamente, teniendo un límite de intentos. Se verifica cada letra ingresada, y se proporciona retroalimentación en cada turno.
