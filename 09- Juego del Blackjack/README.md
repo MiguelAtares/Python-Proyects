@@ -1,5 +1,8 @@
 ﻿# Juego de Blackjack
 
+**📢 Tienes todos los proyectos de Python bien explicados en mi canal de Youtube:**
+ 🔗 [@DataAnalystAtares](https://www.youtube.com/@DataAnalystAtares)
+
 ## Descripción General
 
 Este programa simula una partida de **Blackjack** para dos jugadores. Cada jugador puede sacar cartas de una baraja, sumando sus valores hasta decidir detenerse o superar los 21 puntos (lo que significa perder automáticamente). Al final, se comparan las puntuaciones de ambos jugadores para determinar al ganador.
