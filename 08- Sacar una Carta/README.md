@@ -1,6 +1,9 @@
 ﻿
 # Simulación de Baraja de Cartas con Operaciones
 
+**📢 Tienes todos los proyectos de Python bien explicados en mi canal de Youtube:**
+ 🔗 [@DataAnalystAtares](https://www.youtube.com/@DataAnalystAtares)
+
 ## Descripción General
 
 Este programa simula una baraja de cartas y permite realizar diversas operaciones con ella. Se utilizan tuplas, conjuntos y diccionarios para gestionar las cartas y realizar tareas como:
