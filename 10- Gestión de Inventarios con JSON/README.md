@@ -1,5 +1,8 @@
 ﻿# Sistema de Gestión de Inventario con JSON
 
+**📢 Tienes todos los proyectos de Python bien explicados en mi canal de Youtube:**
+ 🔗 [@DataAnalystAtares](https://www.youtube.com/@DataAnalystAtares)
+
 ## Descripción General
 
 Este programa implementa un sistema de inventario interactivo que permite gestionar productos almacenados en un archivo JSON. Incluye funcionalidades para añadir, modificar y eliminar productos, asegurando que los datos sean persistentes.
