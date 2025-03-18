@@ -1,5 +1,8 @@
 # Lista de Tareas
 
+📢 Tienes todos los proyectos de Python bien explicados en mi canal de Youtube:
+    🔗 [@DataAnalystAtares](https://www.youtube.com/@DataAnalystAtares)  
+
 ## 1. Introducción: la lista inicial
 
 El objetivo de este programa es gestionar una lista diaria de tareas. Para comenzar, se definen dos listas principales:
