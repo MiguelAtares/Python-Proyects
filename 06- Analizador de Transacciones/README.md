@@ -1,6 +1,9 @@
 ﻿
 # Analizador Básico de Registro de Transacciones
 
+**📢 Tienes todos los proyectos de Python bien explicados en mi canal de Youtube:**
+ 🔗 [@DataAnalystAtares](https://www.youtube.com/@DataAnalystAtares)
+
 ## Descripción General
 
 Este código implementa un analizador básico para procesar un registro de transacciones financieras. Permite realizar diversas operaciones sobre las transacciones, como filtrar, modificar, calcular totales y generar reportes.
