@@ -1,6 +1,9 @@
 ﻿
 # Sistema de Pedidos de Comida
 
+**📢 Tienes todos los proyectos de Python bien explicados en mi canal de Youtube:**
+ 🔗 [@DataAnalystAtares](https://www.youtube.com/@DataAnalystAtares)
+ 
 ## Descripción General
 
 Este código implementa un sistema interactivo de pedidos de comida. Permite a los usuarios:
