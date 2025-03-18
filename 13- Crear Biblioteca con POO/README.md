@@ -1,7 +1,9 @@
 ﻿# CREAR BIBLIOTECA CON PROGRAMACIÓN ORIENTADA A OBJETOS (POO)
 
-## Descripción General
+**📢 Tienes todos los proyectos de Python bien explicados en mi canal de Youtube:**
+ 🔗 [@DataAnalystAtares](https://www.youtube.com/@DataAnalystAtares)
 
+## Descripción General
 
 El código implementa un sistema de **Biblioteca** usando **Programación Orientada a Objetos (POO)** en Python. A lo largo del código se explican conceptos clave como **clases, atributos, métodos, herencia y polimorfismo**.
 
