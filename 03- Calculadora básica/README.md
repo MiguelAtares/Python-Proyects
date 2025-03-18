@@ -1,6 +1,9 @@
 ﻿
 **Calculadora Básica en Python**
 
+📢 Tienes todos los proyectos de Python bien explicados en mi canal de Youtube:
+    🔗 [@DataAnalystAtares](https://www.youtube.com/@DataAnalystAtares)  
+
 Este proyecto consiste en una calculadora básica que permite realizar operaciones aritméticas fundamentales como suma, resta, multiplicación y división. Está diseñado para ser interactivo y fácil de usar, ofreciendo también la posibilidad de realizar operaciones de forma repetitiva o bajo un flujo continuo.
 
 ----------
