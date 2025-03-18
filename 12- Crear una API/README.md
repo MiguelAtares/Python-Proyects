@@ -1,5 +1,8 @@
 ﻿# API de Star Wars con Flask
 
+**📢 Tienes todos los proyectos de Python bien explicados en mi canal de Youtube:**
+ 🔗 [@DataAnalystAtares](https://www.youtube.com/@DataAnalystAtares)
+
 ## Descripción General
 
 Este proyecto implementa una API RESTful con Flask para gestionar información sobre personajes de Star Wars. La API permite realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) sobre una lista de personajes, además de filtrar resultados y gestionar errores.
