@@ -2,7 +2,7 @@
 **Generador de Contraseñas en Python**
 
 **📢 Tienes todos los proyectos de Python bien explicados en mi canal de Youtube:**
- **🔗 [@DataAnalystAtares](https://www.youtube.com/@DataAnalystAtares)  **
+ 🔗 [@DataAnalystAtares](https://www.youtube.com/@DataAnalystAtares)  
 
 
 Este proyecto implementa un **generador de contraseñas** utilizando tres métodos diferentes. También incluye ejemplos del uso de las funciones más comunes del módulo `random` en Python. El objetivo principal es demostrar varias formas de crear contraseñas de diferentes niveles de complejidad y flexibilidad.
