@@ -1,5 +1,8 @@
 ﻿# Proyecto de Solicitudes Básicas a una API con Python
 
+**📢 Tienes todos los proyectos de Python bien explicados en mi canal de Youtube:**
+ 🔗 [@DataAnalystAtares](https://www.youtube.com/@DataAnalystAtares)
+
 ## Descripción General
 
 Este código tiene como objetivo practicar solicitudes básicas a una **API RESTful** utilizando el módulo `requests` de Python. Implementa los métodos HTTP fundamentales (**GET, POST, PUT, PATCH, DELETE**) para interactuar con la API **JSONPlaceholder**, que es un servicio gratuito de prueba.
