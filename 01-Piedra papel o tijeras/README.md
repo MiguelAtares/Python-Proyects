@@ -1,5 +1,8 @@
 # Piedra, Papel o Tijeras
 
+📢 Tienes todos los proyectos de Python bien explicados en mi canal de Youtube:
+    🔗 [@DataAnalystAtares](https://www.youtube.com/@DataAnalystAtares)  
+
 ## Objetivo del proyecto:
 Este proyecto consiste en desarrollar un juego interactivo donde el usuario elige entre "piedra", "papel" o "tijera", y la computadora selecciona aleatoriamente una opción. El programa evalúa las elecciones y determina al ganador según las reglas clásicas del juego.
 
